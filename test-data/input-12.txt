@@ -1,0 +1,3 @@
+GT4500,1,0,0,0        # 1 torpedo in primary, secondary empty
+TORPEDO,SINGLE        # primary fires -> now both stores are empty
+TORPEDO,SINGLE        # secondary is next but empty, primary is empty too -> nothing to fire
