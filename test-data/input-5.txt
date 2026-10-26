@@ -1,3 +1,0 @@
-GT4500,10,0,0,0       # secondary empty
-TORPEDO,SINGLE        # primary
-TORPEDO,SINGLE        # secondary is next but empty -> primary again

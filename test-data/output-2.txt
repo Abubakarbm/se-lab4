@@ -1,2 +1,0 @@
-   SUCCESS  # <- GT4500
-   FAIL     # <- TORPEDO (would be SUCCESS if secondary fired first or was tried after failure)

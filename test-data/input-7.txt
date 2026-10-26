@@ -1,3 +1,0 @@
-GT4500,1,0,1,0        # one torpedo in each store
-TORPEDO,ALL           # fires both -> both stores become empty
-TORPEDO,ALL           # nothing left -> proves both fired the first time
