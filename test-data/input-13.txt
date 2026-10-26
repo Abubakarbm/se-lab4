@@ -1,0 +1,2 @@
+GT4500,1,0,0,0        # secondary empty
+TORPEDO,ALL           # only primary can fire -> at least one fired

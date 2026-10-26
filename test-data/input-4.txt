@@ -1,0 +1,2 @@
+GT4500,0,0,10,0       # primary empty
+TORPEDO,SINGLE        # should fall back to secondary
